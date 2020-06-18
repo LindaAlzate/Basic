@@ -4,7 +4,7 @@
 - Semana 1 : Introducción.
 
 - Semana 2 : Definiciones:
-                - Comentarios y tipos de datos básicos
+- Comentarios y tipos de datos básicos
                 - Variables
                 - Trabajando con Strings
                 - Manipulando Strings
