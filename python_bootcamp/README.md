@@ -30,3 +30,10 @@
 - Sentencia return.
 - Variables globales, de función y de clase.
 #### Creación de carro de compras.
+
+### Semana 6 : Colecciones de datos y archivos.
+- Diccionarios.
+- Trabajando con diccionarios.
+- Tuplas, Sets y Frozensets.
+- Leyendo y escribiendo archivos.
+#### Creación de una base de datos de usario con archivos CSV
