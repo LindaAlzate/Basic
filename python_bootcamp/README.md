@@ -36,11 +36,18 @@
 - Trabajando con diccionarios.
 - Tuplas, Sets y Frozensets.
 - Leyendo y escribiendo archivos.
-#### Creación de una base de datos de usario con archivos CSV
+#### Creación de una base de datos de usario con archivos CSV.
 
-### Semana 7 : Programación orientada a objetos (OOP)
-- Creación e instanciado de clases
-- Atributos 
-- Métodos
-- Inherencia
-#### Creación de un blackjack
+### Semana 7 : Programación orientada a objetos (OOP).
+- Creación e instanciado de clases.
+- Atributos.
+- Métodos.
+- Inherencia.
+#### Creación de un blackjack.
+
+### Semana 8 : Eficiencia.
+- Comprensión de listas
+- Funciones anónimas (lambda).
+- map(), filter() y reduce().
+- Funciones recursivas y memoización (caché).
+#### Algoritmo de búsqueda binaria.
