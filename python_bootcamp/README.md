@@ -51,3 +51,11 @@
 - map(), filter() y reduce().
 - Funciones recursivas y memoización (caché).
 #### Algoritmo de búsqueda binaria.
+
+### Semana 9 : Complejidad.
+- Generadores e iteradores.
+- Decoradores.
+- Módulos.
+- Entendiendo la complejidad algorítmica.
+#### Bubble sort vs. Insertion sort.
+
