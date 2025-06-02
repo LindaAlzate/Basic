@@ -60,7 +60,7 @@
 #### Bubble sort vs. Insertion sort.
 
 ### Semana 10 : Intoducción a análisis de datos.
-- Entonrnos virtuales y requests.
+- Entornos virtuales y requests.
 - Pandas.
 - Visualización de datos.
 - Web scraping.
