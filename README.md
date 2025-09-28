@@ -1,2 +1,2 @@
-# Base
-Repositorio base
+# Basic
+Repositorio basic
